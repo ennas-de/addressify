@@ -18,6 +18,7 @@ Install the Addressify package using npm:
 
 ## Usage
 
+```
 const addressify = require("addressify");
 
 <!-- Generate address details based on the user's area input -->
@@ -35,6 +36,7 @@ area: 'Osere',
 street: 'Alafia Oluwa'
 ... other address components
 }
+```
 
 ## Contributing
 
