@@ -1,0 +1,154 @@
+// Nigeria.json
+{
+  "countryName": "Nigeria",
+  "states": [
+    {
+      "stateName": "Abia",
+      "stateCapital": "Umuahia"
+    },
+    {
+      "stateName": "Adamawa",
+      "stateCapital": "Yola"
+    },
+    {
+      "stateName": "Akwa Ibom",
+      "stateCapital": "Uyo"
+    },
+    {
+      "stateName": "Anambra",
+      "stateCapital": "Awka"
+    },
+    {
+      "stateName": "Bauchi",
+      "stateCapital": "Bauchi"
+    },
+    {
+      "stateName": "Bayelsa",
+      "stateCapital": "Yenagoa"
+    },
+    {
+      "stateName": "Benue",
+      "stateCapital": "Makurdi"
+    },
+    {
+      "stateName": "Borno",
+      "stateCapital": "Maiduguri"
+    },
+    {
+      "stateName": "Cross River",
+      "stateCapital": "Calabar"
+    },
+    {
+      "stateName": "Delta",
+      "stateCapital": "Asaba"
+    },
+    {
+      "stateName": "Ebonyi",
+      "stateCapital": "Abakaliki"
+    },
+    {
+      "stateName": "Edo",
+      "stateCapital": "Benin City"
+    },
+    {
+      "stateName": "Ekiti",
+      "stateCapital": "Ado-Ekiti"
+    },
+    {
+      "stateName": "Enugu",
+      "stateCapital": "Enugu"
+    },
+    {
+      "stateName": "Federal Capital Territory",
+      "stateCapital": "Abuja"
+    },
+    {
+      "stateName": "Gombe",
+      "stateCapital": "Gombe"
+    },
+    {
+      "stateName": "Imo",
+      "stateCapital": "Owerri"
+    },
+    {
+      "stateName": "Jigawa",
+      "stateCapital": "Dutse"
+    },
+    {
+      "stateName": "Kaduna",
+      "stateCapital": "Kaduna"
+    },
+    {
+      "stateName": "Kano",
+      "stateCapital": "Kano"
+    },
+    {
+      "stateName": "Katsina",
+      "stateCapital": "Katsina"
+    },
+    {
+      "stateName": "Kebbi",
+      "stateCapital": "Birnin Kebbi"
+    },
+    {
+      "stateName": "Kogi",
+      "stateCapital": "Lokoja"
+    },
+    {
+      "stateName": "Kwara",
+      "stateCapital": "Ilorin"
+    },
+    {
+      "stateName": "Lagos",
+      "stateCapital": "Ikeja"
+    },
+    {
+      "stateName": "Nasarawa",
+      "stateCapital": "Lafia"
+    },
+    {
+      "stateName": "Niger",
+      "stateCapital": "Minna"
+    },
+    {
+      "stateName": "Ogun",
+      "stateCapital": "Abeokuta"
+    },
+    {
+      "stateName": "Ondo",
+      "stateCapital": "Akure"
+    },
+    {
+      "stateName": "Osun",
+      "stateCapital": "Osogbo"
+    },
+    {
+      "stateName": "Oyo",
+      "stateCapital": "Ibadan"
+    },
+    {
+      "stateName": "Plateau",
+      "stateCapital": "Jos"
+    },
+    {
+      "stateName": "Rivers",
+      "stateCapital": "Port Harcourt"
+    },
+    {
+      "stateName": "Sokoto",
+      "stateCapital": "Sokoto"
+    },
+    {
+      "stateName": "Taraba",
+      "stateCapital": "Jalingo"
+    },
+    {
+      "stateName": "Yobe",
+      "stateCapital": "Damaturu"
+    },
+    {
+      "stateName": "Zamfara",
+      "stateCapital": "Gusau"
+    }
+  ]
+}

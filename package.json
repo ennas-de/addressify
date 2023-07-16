@@ -1,12 +1,45 @@
 {
-  "name": "1.-addressify",
+  "name": "addressify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Addressify is an npm package that provides comprehensive address functionality, including country, state, local government, area, and street information for locations around the world.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "address",
+    "geolocation",
+    "location",
+    "countries",
+    "states",
+    "local governments",
+    "areas",
+    "streets"
+  ],
+  "author": "Muhammed Abdulhakeem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ennas-de/addressify.git"
+  },
+  "homepage": "https://github.com/ennas-de/addressify",
+  "bugs": {
+    "url": "https://github.com/ennas-de/addressify/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
 }
