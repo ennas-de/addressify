@@ -34,7 +34,7 @@ state: 'Kwara',
 localGovernment: 'Ilorin West',
 area: 'Osere',
 street: 'Alafia Oluwa'
-... other address components
+<!-- ... other address components -->
 }
 ```
 
