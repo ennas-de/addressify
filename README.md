@@ -27,14 +27,13 @@ const userArea = "Osere";
 const addressDetails = addressify.getAddressDetails(userArea);
 
 console.log(addressDetails);
-Output:
-{
-country: 'Nigeria',
-state: 'Kwara',
-localGovernment: 'Ilorin West',
-area: 'Osere',
-street: 'Alafia Oluwa'
-<!-- ... other address components -->
+Output: {
+    country: 'Nigeria',
+    state: 'Kwara',
+    localGovernment: 'Ilorin West',
+    area: 'Osere',
+    street: 'Alafia Oluwa'
+    <!-- ... other address components -->
 }
 ```
 
